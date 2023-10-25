@@ -8,9 +8,14 @@ Project Statement
 
 Project Description
 
-Azure Services used
+Azure Services used 
+1. Static Web Apps
+2. Stoage Account
+3. Containers
 
 Web Technologies used
+1. HTML
+2. 
 
 IDE used
 
