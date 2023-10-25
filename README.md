@@ -2,7 +2,7 @@
 Microsoft Future Ready Talent Internship Project 
 Azure Deployment on Static Web Apps (URL) - https://brave-sea-00f3eb110.3.azurestaticapps.net 
 
-WeBlog 
+"WeBlog" 
 
 Project Statement:
 The importance of a healthy lifestyle that involves sound physiological, mental and social health is often overlooed. But today we understand the significance of healthy lifestyle. We have built a platform for lifestyle bloggers and readers interested in health blogs.
@@ -10,7 +10,7 @@ The importance of a healthy lifestyle that involves sound physiological, mental 
 Project Description:
 Weblog is a clean and minimal themed blog and magazine website. Its delightful experience will be inspiring you as well as your visitors. It’s pleasing design and delightful color combination would bring out the best creativity, out of you. It is designed to keep you spellbound. It is the ultimate lifestyle blogging platform to express yourself. Weblog has 3 variants of Blog pages such as Standard blog, 2 column blog and 3 column blog. A beautifully designed home page with banner bootstrap carousel slider, a flexisel slider with video modal popup, blog posts, a search form in the header, newsletter subscription form, latest posts and social media icons in the footer section, about page and contact page. A sign in page and register page is also included. This fabulous, elegant, marvelous design can be used for your all kinds of blog themes like lifestyle blog, magazine blog, personal blog, news blog, modern blog, fashion blog, events blog, travel blog, photography and much more. The Modern designe of Weblog  is 100% responsive cross browser blogging, compatible on all devices, displayed on all screen sizes. 
 
-Azure Services used 
+Azure Services used:
 1. Static Web Apps for deployment of the website
 2. Azure Stoage Accounts
 3. Containers
@@ -25,7 +25,7 @@ Web technologies used:
 IDE used:
 Vs (visual studio) code
 
-Microsoft Azure Deployment Process
+Microsoft Azure Deployment Process:
 1. The project was built completely on visual studio code
 2. Then it was tested on live server extensions
 3. Then git was installed and enabled
